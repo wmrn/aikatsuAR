@@ -38,7 +38,7 @@ void draw() {
   if (ar.isExistMarker(id)) {
     ar.beginTransform(id);
     translate(0, 0, 0);  // 3Dオブジェクトの表示位置の調整
-    //rotateX(radians(180));
+    rotateX(radians(90));
     //rotateY(radians(180));
     rotateZ(radians(180));
 
