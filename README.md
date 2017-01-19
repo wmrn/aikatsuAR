@@ -12,6 +12,7 @@ DCDアイカツスターズのAR 2017/01/19
 ## 遊び方
 カメラに向かって2次元コードを見せるだけ。  
 (カードに光沢があるので少々読み込まれにくいかも。)
+<img src=https://github.com/wmrn/aikatsuAR/blob/master/data/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3.PNG>  
 
 ## 感想
 Blenderとかじゃなくてcinema4Dとかちゃんとしたモデリングソフトを使ってみたかったし、  
